@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://poonchit.im/2016/07/01/search-cell-tower/</loc>
+        <lastmod>2016-07-01T02:11:04.036Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://poonchit.im/2016/03/01/letsencrypt-nginx-certificate-transparency/</loc>
         <lastmod>2016-05-18T11:32:53.538Z</lastmod>
         <changefreq>weekly</changefreq>
